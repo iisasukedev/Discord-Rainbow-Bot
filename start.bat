@@ -2,7 +2,7 @@
 title Starting The Bot
 @echo Starting...
 @echo Thank you for using the bot.
-@echo If you have any problem you can join to the support server [https://discord.gg/5Ka5aKx]
+@echo If you have any problem you can join to the support server [https://discord.gg/qYJ5FFQt4J]
 timeout /t 2 >nul
 @echo.
 title Rainbow Bot By Discord Library
